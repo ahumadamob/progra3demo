@@ -1,5 +1,11 @@
+
 {
     "nombre": "Mario",
     "apellido": "Ahumada",
     "edad": 44
+},
+{
+    "nombre": "Lopez",
+    "apellido": "Mariana",
+    "edad": 22
 }
