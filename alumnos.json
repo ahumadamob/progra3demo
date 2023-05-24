@@ -3,16 +3,9 @@
     "apellido": "Ahumada",
     "edad": 44
 },
-<<<<<<< HEAD
 
 {
     "nombre": "Alejandro",
     "apellido": "Castillo",
     "edad": 24
-=======
-{
-    "nombre": "Franco",
-    "apellido": "Calabretto",
-    "edad": 29
->>>>>>> 7e20a581992d97368c8995c7961187d6df9d5e7c
 }
