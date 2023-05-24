@@ -1,3 +1,4 @@
+
 {
     "nombre": "Mario",
     "apellido": "Ahumada",
@@ -7,4 +8,12 @@
      "nombre": "elias",
     "apellido": "valencia",
     "edad": 21
+},
+    "nombre": "Lopez",
+    "apellido": "Mariana",
+    "edad": 22
+},
+    "nombre": "Franco",
+    "apellido": "Calabretto",
+    "edad": 29
 }
