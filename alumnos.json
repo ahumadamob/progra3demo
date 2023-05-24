@@ -1,24 +1,35 @@
 
-{
+[
+    {
+
     "nombre": "Mario",
     "apellido": "Ahumada",
     "edad": 44
 },
 {
-    "nombre": "Lorena",
+    "nombre": "Evangelina",
+    "apellido": "Sura",
+    "edad": 31
+},
+{
+   "nombre": "Lorena",
     "apellido": "Andrade",
     "edad": 32
 },
+{  
      "nombre": "elias",
     "apellido": "valencia",
     "edad": 21
+{   
 },
     "nombre": "Lopez",
     "apellido": "Mariana",
     "edad": 22
+{  
 },
     "nombre": "Franco",
     "apellido": "Calabretto",
     "edad": 29
 }
+]
 
